@@ -6,4 +6,4 @@ This is a single-page application built using React that allows users to browse 
 - Infinite Scroll: Users can scroll through the news articles effortlessly, as new articles are loaded automatically as they reach the bottom of the page.
 - Single Page: The application operates as a single-page app, providing a smooth and uninterrupted browsing experience.
 
-<img width="960" alt="Screenshot 2023-07-09 172334" src="https://github.com/sanyam40/ReactJS-Basics/assets/87993985/b0e50f61-98cc-4a35-92ce-69aa840b69cd">
+<img width="960" alt="Screenshot 2023-07-17 160121" src="https://github.com/sanyam40/NewsApp/assets/87993985/c1836961-b82d-4408-97c1-0503046ce0f4">
